@@ -1,3 +1,4 @@
+ORT 2024
 La ORT pidió desarrollar un proyecto de algoritmia y estructuras de datos II aplicando los conceptos vistos en clase, principalmente árboles binarios de búsqueda y árboles balanceados, dentro de un sistema práctico. El objetivo general era que el estudiante implementara un sistema para una aerolínea, donde cada funcionalidad debía justificarse desde el punto de vista algorítmico y de complejidad temporal.
 
 
